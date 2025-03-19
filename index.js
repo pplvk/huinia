@@ -45,5 +45,3 @@ document.getElementById('mysubmit').onclick = function(){
     
     console.log(username, age, typeof age);
 }
-
-
